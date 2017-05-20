@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="events">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="event" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+              <xs:element name="category">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="genre" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="title">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="lang" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="artists">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="artist" maxOccurs="unbounded" minOccurs="0"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="kind" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="venue">
+                <xs:complexType>
+                  <xs:choice maxOccurs="unbounded" minOccurs="0">
+                    <xs:element type="xs:string" name="event_place"/>
+                    <xs:element type="xs:dateTime" name="starting"/>
+                    <xs:element type="xs:string" name="address"/>
+                    <xs:element name="cost">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:decimal">
+                            <xs:attribute type="xs:string" name="currency" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:anyURI" name="url"/>                    
+                  </xs:choice>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="event_details"/>
+            </xs:choice>
+            <xs:attribute type="xs:string" name="event_id" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

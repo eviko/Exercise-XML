@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="events.xsd">
+ <event event_id="﻿E0-001-086220859-4">
+    <category  genre="rap">Concerts</category>
+    <title lang="en">Hollywood Undead</title>
+    <artists kind="band">
+      <artist>Jore</artist>
+      <artist>Matthew</artist>
+      <artist>Dylan</artist>
+      <artist>George</artist>
+      <artist>Jordon</artist>
+      <artist>Daniel</artist>
+  </artists>
+  <venue>
+   <event_place>Huxley's Neue Welt</event_place>
+   <starting>2016-03-30T20:00:00</starting>
+   <address>Hasenheide 108-114 Berlin, Berlin 10967 ,Germany</address>
+   <cost currency="euro">33.95</cost>
+   <url>http://berlin.eventful.com/events/hollywood-undead-/E0-001-088495749-3</url>
+  </venue>
+   <event_details>Official Website </event_details>
+   <event_details> Event details at huxleysneuewelt.com! </event_details>
+   <event_details> Event details at hekticket.de!</event_details>
+ </event>
+ <event event_id="E0-001-086220859-5">
+  <category genre="Alternative Rock">Concerts</category>
+  <artists kind="band">
+    <artist>Black Franci</artist>
+    <artist>Joey Santiago</artist>
+    <artist>Paz Lenchantin</artist>
+    <artist>David Lovering</artist>
+</artists>
+  <title lang="en">Pixies</title>
+  <venue>
+   <event_place>Zitadelle Spandau</event_place>
+   <starting>2016-07-18T20:00:00</starting>
+   <address>Am Juliusturm 64, Berlin 13599  ,Germany</address>
+   <cost currency="euro">70.45</cost>
+   <cost currency="euro">80.40</cost>
+   <cost currency="euro">96.48</cost>
+   <url>http://berlin.eventful.com/events/pixies-/E0-001-090893869-5</url>
+  </venue>
+   <event_details>Buy tickets at viagogo.com! </event_details>
+   <event_details> Event details at hekticket.de!</event_details>
+ </event>
+ <event event_id="E0-001-086220859-6">
+  <category genre="Alternative Rock">Concerts</category>
+  <title lang="en">The Cure</title>
+  <artists kind="band">
+    <artist>Robert Smith</artist>
+    <artist>Lol Tolhurst</artist>
+    <artist>Porl Thompson</artist>
+  </artists>
+  <venue>
+   <event_place>Mercedes Benz Arena </event_place>
+   <starting>2016-10-18T19:30:00</starting>
+   <address>Mercedes-Platz 1 , Berlin 10243 ,Germany</address>
+   <cost currency="euro">79.50</cost>
+   <cost currency="euro">99.00</cost>
+   <cost currency="euro">112.37</cost>
+   <url>http://berlin.eventful.com/events/cure-berlin-/E0-001-089188325-7</url>
+  </venue>
+   <event_details> Event details at hekticket.de!</event_details>
+ </event>
+ <event event_id="E0-001-086220859-7">
+  <category  genre="Alternative Rock">Concerts</category>
+    <artists kind="band">
+   <artist >Brian Molko</artist>
+    <artist >Stefan Olsdal</artist>
+  </artists>
+  <title lang="en">Placebo </title>
+  <venue>
+   <event_place>Mercedes Benz Arena </event_place>
+   <starting>2016-11-07T20:00:00</starting>
+   <address>Mercedes-Platz 1 , Berlin 10243 ,Germany</address>
+   <cost currency="euro">59.70</cost>
+   <cost currency="euro">79.85</cost>
+   <cost currency="euro">89.67</cost>
+   <cost currency="euro">99</cost>
+   <url>http://berlin.eventful.com/events/placebo-/E0-001-091927233-7</url>
+  </venue>
+ </event>
+ <event event_id="E0-001-086220859-8">
+  <category genre="Pop">Concerts</category>
+  <title lang="en">Rihanna</title>
+  <artists kind="singer">
+    <artist>Rihanna</artist>
+</artists>
+   <venue>
+   <event_place>Olympiastadion</event_place>
+   <starting>2016-08-02T20:00:00</starting>
+   <address>Olympischer Platz 3, 14053 Berlin ,Germany</address>
+   <cost currency="euro">120.52</cost>
+   <url>http://berlin.eventful.com/events/rihanna-berlin-/E0-001-089188317-8</url>
+  </venue>
+   <event_details> Event details at hekticket.de!</event_details>
+   </event>
+ <event event_id="E0-001-086220859-9">
+  <category genre="Pop">Concerts</category>
+  <title lang="en">David Blair</title>
+  <artists kind="singer">
+    <artist >David Blair</artist>
+ </artists>
+  <venue>
+   <event_place>ART STALKER</event_place>
+   <starting>2016-08-07T20:30:00</starting>
+   <cost currency="euro">8.00</cost>
+   <cost currency="euro">5.00</cost>
+   <address>KAISER-FRIEDRICH STR. 67 Berlin ,Germany</address>
+   <url>http://berlin.eventful.com/events/david-blair-concert-/E0-001-086220859-9?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+  </venue>
+   <event_details>Event details at eventbrite.com! </event_details>
+   <event_details> Artist details at reverbnation.com!</event_details>
+ </event>
+ <event event_id="E0-001-087755126-4">
+  <category genre="Folk">Concerts</category>
+  <title lang="en">THE SAY HIGHS </title>
+  <artists kind="band">
+    <artist>Dave McGinty</artist>
+    <artist>Guido Kreutzm?ller</artist>
+ </artists>
+  <venue>
+   <event_place>ART STALKER</event_place>
+   <starting>2016-10-27T20:30:00</starting>
+   <url>http://berlin.eventful.com/events/say-highs-folk-concert-/E0-001-087755126-4?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+   <address>KAISER-FRIEDRICH STR. 67 Berlin ,Germany</address>
+   <cost currency="euro">6.00</cost>
+   <cost currency="euro">8.50</cost>
+  </venue>
+   <event_details>Event details at eventbrite.com! </event_details>
+   <event_details> Artist details at reverbnation.com!</event_details>
+ </event>
+ <event event_id="E0-001-081323578-0">
+  <category genre="soul">Concerts</category>
+  <title lang="en">Mara Simpson</title>
+  <artists kind="band">
+    <artist>Chris Boot</artist>
+    <artist>Ben Daniels</artist>
+    <artist >Rene Corbett</artist>
+    <artist >Alex Bayer</artist>
+    <artist >Susy Peddie</artist>
+  </artists>
+  <venue>
+   <event_place>Konzerthaus Berlin</event_place>
+   <starting>2016-04-10T20:00:00</starting>
+   <address>Gendarmenmarkt 10117 Berlin ,Germany</address>
+   <cost currency="euro">10.0</cost>
+   <url>http://berlin.eventful.com/events/house-concert-mara-simpson-/E0-001-081323578-0?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+  </venue>
+   <event_details>musicglue.com!</event_details>
+ </event>
+ <event event_id="E0-001-089234427-8">
+  <category genre="hip hop">Concerts</category>
+  <title lang="en">M.O.P.</title>
+  <artists kind="duo">
+    <artist >Lil' Fame</artist>
+    <artist >Billy Danze</artist>
+  </artists>
+  <venue>
+   <event_place>Lido</event_place>
+   <starting>2015-12-18T20:00:00</starting>
+   <cost currency="euro">15</cost>
+   <address> Cuvrystr 7, Berlin 10997 ,Germany</address>
+   <url>http://berlin.eventful.com/events/mop-live-concert-/E0-001-089234427-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+  </venue>
+   <event_details> Event details at lido-berlin.de! </event_details>
+   <event_details> Event details at adticket.de!</event_details>
+ </event>
+ <event event_id="GR-020-15236">
+  <category genre="Dance theater">Dance</category>
+  <title lang="en">TAO Dance Theater</title>
+  <artists kind="group">
+    <artist >Fu Liwei</artist>
+    <artist >Mao Xue</artist>
+    <artist >Li Shunjie</artist>
+    <artist >Yu Jinying</artist>
+    <artist >Huang li</artist>
+    <artist >Hu Jing</artist>
+  </artists>
+  <venue>
+   <event_place>ONASSIS Cultural Center </event_place>
+   <starting>2016-04-04T20:30:00</starting>
+   <url>http://www.sgt.gr/eng/SPG1398/?</url>
+   <address>107-109 SyngrouAvenue,11745 Athens,Greece</address>
+   <cost currency="euro"> 18</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">5</cost>
+  </venue>
+ </event>
+ <event event_id="GR-020-15237">
+  <category genre="Dance theater">Dance</category>
+  <title lang="gr">Δεσποινίς Τζούλια</title>
+  <artists kind="group">
+   <artist >Εύα Παρασκευοπούλου</artist>
+    <artist >Στ. Λίτινας</artist>
+    <artist >Αλ. Αναστασιάδη</artist>
+  </artists>
+  <venue>
+   <event_place>Anesis</event_place>
+   <starting>2016-04-04T20:30:00</starting>
+   <address>14 Kifisias Avenue,11526 Athens,Greece</address>
+   <cost currency="euro">14.00</cost>
+   <cost currency="euro">10</cost>
+   <url>http://www.athinorama.gr/theatre/performance/despoinis_tzoulia-10030274.html</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15238">
+ <category genre="Dance theater">Dance</category>
+  <title lang="en">Compagnie Maguy Marin</title>
+<artists kind="group">
+  <artist>Ulises Alvarez</artist>
+  <artist>Kais Chouibi</artist>
+  <artist>Laura Frigato</artist>
+  <artist>Daphn? Koutsafti</artist>
+  <artist>Mayalen Otondo</artist>
+  <artist>Cathy Polo</artist>
+  <artist>Ennio Sammarco</artist>
+</artists>
+  <venue>
+   <event_place>Peiraios 260, Building D</event_place>
+   <starting>2015-06-02T21:00:00</starting>
+   <address>Peiraios 260,18233 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">10</cost>
+   <cost currency="euro">5</cost>
+   <url>http://greekfestival.gr/en/events/view/compagnie-maguy-marin-2015</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15239">
+ <category genre="Dance theater">Dance</category>
+  <title lang="en">Sylvie Guillem</title>
+  <artists kind="solo">
+    <artist >Sylvie Guillem</artist>
+</artists>
+  <venue>
+   <event_place>Odeon of Herodes Atticus</event_place>
+    <starting>2015-06-03T20:00:00 </starting>
+   <address>  Dionysiou Areopagitou Street,15123,Athens,Greece</address>
+   <cost currency="euro">50</cost>
+   <cost currency="euro">40</cost>
+   <cost currency="euro">35</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">10</cost>
+   <url>http://greekfestival.gr/en/events/view/sylvie-guillem-2015</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15280">
+ <category genre="Dance theater">Dance</category>
+  <title lang="en">Sylvie Guillem</title>
+  <artists kind="solo">
+    <artist >Sylvie Guillem</artist>
+</artists>
+  <venue>
+   <event_place>Peiraios 260, Building D</event_place>
+  <starting>2016-08-13T21:00:00 </starting>   
+   <address>Peiraios 260,18233 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">5</cost>
+   <url>http://greekfestival.gr/en/events/view/catherine-diverr%C3%A8s-2015</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15240">
+  <category genre="Dance theater">Dance</category>
+  <title lang="en">Catherine Diverr?s</title>
+  <artists kind="group">
+    <artist>Alessandro Bernardeschi</artist>
+    <artist>Francesca Mattavelli</artist>
+    <artist>Capucine Goust</artist>
+    <artist>Akiko Hasegawa</artist>
+    <artist>Thierry Micouin</artist>
+   <artist>Rafael Pardillo</artist>
+    <artist>Tamara Stuart-Ewing</artist>
+    <artist >Emilio Urbina</artist>
+  </artists>
+  <venue>
+   <event_place>Peiraios 260, Building D</event_place>
+  <starting>2015-06-13T21:00:00</starting>   
+   <address>Peiraios 260,18233 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">5</cost>
+   <url>http://greekfestival.gr/en/events/view/catherine-diverr%C3%A8s-2015</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15241">
+ <category genre="Dance theater">Dance</category>
+  <title lang="en">Lenio Kaklea</title>
+  <artists kind="duo">
+    <artist>Lenio Kaklea</artist>
+    <artist>Kerem Gelebek</artist>
+  </artists>
+  <venue>
+   <event_place>Peiraios 260, Building E</event_place>
+  <starting>2015-06-25T21:00:00</starting>   
+   <address>Peiraios 260,18233 Athens,Greece</address>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">10</cost>
+   <cost currency="euro">5</cost>
+   <url>http://greekfestival.gr/en/events/view/lenio-kaklea-2015</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15242">
+  <category genre="Dance theater">Dance</category>
+  <title lang="en">Tania Carvalho</title>
+  <artists kind="group">
+   <artist>Marta Cerqueira</artist>
+   <artist>Andre Santos</artist>
+   <artist>Bruno Senune</artist>
+   <artist>Catarina F?lix</artist>
+   <artist>Claudio Vieira</artist>
+   <artist>Goncalo Ferreira de Almeida</artist>
+   <artist>Jacome Filipe</artist>
+  </artists>
+  <venue>
+   <event_place>Peiraios 260, Building H</event_place>
+  <starting>2015-06-27T21:00:00</starting>   
+   <address>Peiraios 260,18233 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">10</cost>
+   <cost currency="euro">5</cost>
+   <url>http://greekfestival.gr/en/events/view/tania-carvalho-2015</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15243">
+  <category genre="Dance theater">Dance</category>
+  <title lang="en">Arkadi Zaides</title>
+  <artists kind="solo">
+   <artist>Arkadi Zaides</artist>
+  </artists>
+  <venue>
+   <event_place>ONASSIS Cultural Center </event_place>
+    <starting>2016-05-25T21:00:00</starting>   
+   <address>107-109 SyngrouAvenue,11745 Athens,Greece</address>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <url>http://www.sgt.gr/eng/SPG1507/?</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15244">
+  <category>Theater</category>
+  <title lang="en">Death of a Salesman</title>
+  <artists kind="group">
+    <artist>Petros Filippidis</artist>
+    <artist>Peggy Stathakopoulou</artist>
+    <artist>Alexandros Logothetis</artist>
+    <artist>Dimitris Kitsos</artist>
+    <artist>Nektaria Yannoudaki</artist>
+    <artist>Yiannis Stollas</artist>
+    <artist >Yannis Tsortekis</artist>
+    <artist>Thimios Koukios</artist>
+    <artist>Letta Eva Varsou</artist>
+  </artists>
+  <venue>
+   <event_place>National Theatre of Greece</event_place>
+   <starting>2016-03-24T21:00:00</starting>   
+   <address>22-24 Agiou Konstadinou,10437 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">8</cost>
+   <url>http://www.n-t.gr/en/events/thanatosemporakou/</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15245">
+  <category>Theater</category>
+  <title lang="en">Filumena</title>
+  <artists kind="group">
+    <artist>Eleni Randou</artist>
+    <artist>Alkis Kourkoulos</artist>
+    <artist >Vilma Tsakiri</artist>
+    <artist >Dina Avagianou</artist>
+    <artist>Meletis Georgiadis</artist>
+    <artist>Maria Diakopanagiotou</artist>
+    <artist>Evgenia Dimitropoulou</artist>
+    <artist>Stavros Mermigis</artist>
+  </artists>
+
+  <venue>
+   <event_place>National Theatre of Greece</event_place>
+  <starting>2015-10-01T21:00:00</starting>   
+   <address>22-24 Agiou Konstadinou,10437 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">8</cost>
+   <url>http://www.n-t.gr/en/events/filoumenanew/</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15246">
+  <category>Theater</category>
+  <title lang="en">Richard III</title>
+<artists kind="group">
+  <artist>Konstantinos Avarikiotis</artist>
+  <artist>Manos Vakousis</artist>
+  <artist>Ieronymos Kaletsanos</artist>
+  <artist>Karyofyllia Karabeti</artist>
+  <artist>Anastasia Konidi</artist>
+  <artist>Dimitris Lignadis</artist>
+  <artist>Tyrrell Theano Metaxa</artist>
+  <artist>Periklis Moustakis</artist>
+</artists>
+  <venue>
+   <event_place>National Theatre of Greece</event_place>
+   <starting>2015-12-12T21:00:00</starting>   
+   <address>22-24 Agiou Konstadinou,10437 Athens,Greece</address>
+   <cost currency="euro">25</cost>
+   <cost currency="euro">20</cost>
+   <cost currency="euro">15</cost>
+   <cost currency="euro">8</cost>
+   <url>http://www.n-t.gr/en/events/richard/</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15247">
+  <category>Theater</category>
+  <title lang="en">Holy Beat</title>
+  <artists kind="group">
+    <artist>Χρηστίνα Γαρμπή</artist>
+    <artist>Γιώργος Κισσανδράκης</artist>
+    <artist>Βασίλης Σαφός</artist>
+  </artists>
+  <venue>
+   <event_place>BIOS</event_place>
+   <starting>2016-03-21T20:30:00</starting>   
+   <address>Peireos 84. 10435  Athens. Greece</address>
+   <cost currency="euro">10</cost>
+   <url>http://www.bios.gr/events/1364/</url>
+  </venue>
+  <event_details>www.viva.gr  </event_details>
+    <event_details>Public</event_details>
+  <event_details>Seven Spots</event_details>
+  <event_details>Reload </event_details>
+ </event>
+ <event event_id="GR-020-15248">
+  <category>Theater</category>
+  <title lang="gr">Η τελευταία μαγνητοταινία του Κραπ</title>
+  <artists kind="solo">
+    <artist>Αντώνης Αντωνόπουλος</artist>
+</artists>
+  <venue>
+   <event_place>BIOS</event_place>
+   <starting>2016-03-18T21:00:00</starting>   
+   <address>Peireos 84. 10435  Athens. Greece</address>
+   <cost currency="euro">10</cost>
+   <url>http://www.bios.gr/events/1360/</url>
+  </venue>
+  <event_details>www.elculture.gr</event_details>
+  <event_details>www.monopoli.gr</event_details>
+  <event_details>www.culturenow.gr</event_details>
+  <event_details> www.debop.gr</event_details>
+ </event>
+<event event_id="GR-020-15249">
+  <category>Theater</category>
+  <title lang="en">Bijoux de kant</title>
+  <artists kind="group">
+    <artist>Θάνος Σαμαράς</artist>
+    <artist>Κώστας Κουτσολέλος</artist>
+    <artist>Νάνσυ Μπούκλη</artist>
+  </artists>
+  <venue>
+   <event_place>BIOS</event_place>
+  <starting>2016-03-10T20:30:00</starting>   
+   <address>Peireos 84. 10435  Athens. Greece</address>
+   <cost currency="euro">12</cost>
+   <cost currency="euro">8</cost>
+   <url>http://www.bios.gr/events/1359/</url>
+  </venue>
+    <event_details>www.elculture.gr</event_details>
+    <event_details>www.monopoli.gr</event_details>
+   <event_details>www.culturenow.gr</event_details>
+   <event_details>www.debop.gr</event_details>
+</event>
+ <event event_id="GR-020-15250">
+  <category>Theater</category>
+  <title lang="gr">Η ΓΥΝΑΙΚΑ ΤΗΣ ΖΑΚΥΝΘΟΣ</title>
+  <artists kind="duo">
+   <artist>Φωτεινή Καπελλάκη</artist>
+   <artist>Κατερίνα Παπαγεωργίου</artist>
+</artists>
+  <venue>
+   <event_place>BOOZE</event_place>
+   <starting>2016-03-21T21:30:00</starting>   
+   <address>Kolokotroni 57  Athens  10560, Greece</address>
+   <cost currency="euro">8</cost>
+   <url>http://www.boozecooperativa.com/events/195</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15251">
+  <category>Theater</category>
+  <title lang="gr">ΨΑΡΙ</title>
+  <artists kind="group">
+    <artist>Ορέστης Ζακυνθινός</artist>
+   <artist>Χριστίνα Τασκασαπίδου</artist>
+   <artist>Φωτεινή Τεντολούρη</artist>
+  </artists>
+  <venue>
+   <event_place>BOOZE</event_place>
+   <starting>2016-05-21T21:30:00</starting>   
+   <address>Kolokotroni 57  Athens  10560, Greece</address>
+   <cost currency="euro">8</cost>
+   <cost currency="euro">5</cost>
+   <url>http://www.boozecooperativa.com/events/207</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15252">
+  <category genre="photography">Exhibition</category>
+  <title lang="en">7 Exposure</title>
+  <artists kind="solo">
+  <artist>Leonidas Kourgiantakis</artist>
+</artists>
+  <venue>
+   <event_place>Benaki Museum</event_place>
+   <starting>2016-02-11T18:30:00</starting>   
+   <address>138 Pireos street,11854 Athens,Greece</address>
+   <cost currency="euro">3</cost>
+   <cost currency="euro">5</cost>
+   <url>http://www.benaki.gr</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15253">
+  <category genre="design">Exhibition</category>
+  <title lang="en">Αrticulations</title>
+  <artists kind="solo">
+   <artist >Χρήστος Παπλωματάς</artist>
+</artists>
+  <venue>
+   <event_place>Benaki Museum</event_place>
+   <starting>2016-03-22T19:30:00</starting>   
+   <address>138 Pireos street,11854 Athens,Greece</address>
+   <cost currency="euro">0</cost>
+     <url>http://www.benaki.gr</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15254">
+  <category genre="Painting">Exhibition</category>
+  <title lang="en">  Thomas Hope</title>
+  <artists kind="solo">
+   <artist >Φανή Μαρία Τσιγκάκου</artist>
+</artists>
+  <venue>
+   <event_place>Benaki Museum</event_place>
+   <starting>2016-03-24T20:00:00</starting>   
+   <address>138 Pireos street,11854 Athens,Greece</address>
+   <cost currency="euro">0</cost>
+     <url>http://www.benaki.gr</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15255">
+  <category genre="photography">Exhibition</category>
+  <title lang="gr">Αναζητώντας τον Θάνατο</title>
+  <artists kind="group">
+    <artist >Δημήτρης Θεοδόσης </artist>
+    <artist >Ζαχαρίας Στουφής</artist>
+  </artists>
+  <venue>
+   <event_place>BOOZE</event_place>
+   <starting>2016-04-01T11:00:00</starting>   
+   <address>Kolokotroni 57  Athens  10560, Greece</address>
+   <cost currency="euro">0</cost>
+     <url>http://www.boozecooperativa.com/</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15256">
+  <category genre="painting">Exhibition</category>
+  <title lang="en">The Eaters and The Eaten</title>
+  <artists kind="solo">
+    <artist >Αλέξανδρος Βασμουλάκης</artist>
+</artists>
+  <venue>
+   <event_place>The Breeder</event_place>
+   <starting>2016-03-31T20:00:00</starting>   
+   <address>Ιάσωνος 45, 10436, Αθήνα</address>
+   <cost currency="euro">0</cost>
+     <url>http://www.thebreedersystem.com</url>
+  </venue>
+ </event>
+<event event_id="GR-020-15257">
+  <category genre="photography">Exhibition</category>
+  <title lang="en">Here Is All There Is</title>
+  <artists kind="solo">
+    <artist >Αλέξης Βασιλικός</artist>
+</artists>
+  <venue>
+   <event_place>CAN Christina Androulidaki Gallery</event_place>
+   <starting>2016-03-17T18:00:00</starting>   
+   <address>Αναγνωστοπούλου 42, Κολωνάκι</address>
+   <cost currency="euro">0</cost>
+     <url>http://www.can-gallery.com/</url>
+  </venue>
+ </event>
+ <event event_id="GR-020-15258">
+  <category genre="painting">Exhibition</category>
+  <title lang="en">Black and White Stories</title>
+  <artists kind="solo">
+    <artist >Μίλτος Σκούρας</artist>
+</artists>
+  <venue>
+   <event_place>Κρατικό Μουσείο Σύγχρονης Τέχνης - Μονή Λαζαριστών</event_place>
+   <starting>2016-03-19T18:00:00</starting>   
+   <address>Κολοκοτρώνη 21, Σταυρούπολη, Θεσσαλονίκη</address>
+   <cost currency="euro">1</cost>
+   <cost currency="euro">3</cost>
+     <url>http://www.greekstatemuseum.com/</url>
+  </venue>
+ </event>
+  <event event_id="GR-020-15259">
+  <category genre="video">Exhibition</category>
+  <title lang="en">Drops of Breath</title>
+  <artists kind="group">
+    <artist > Αποστολία Παπαδαμάκη</artist>
+    <artist >Sophie Bulbulyan </artist>
+    <artist >Λία Χαράκη</artist></artists>
+  <venue>
+   <event_place>Διεθνής Αερολιμένας Αθηνών Ελευθέριος Βενιζέλος</event_place>
+   <starting>2016-02-01T11:00:00</starting>   
+   <address>19019 Σπάτα</address>
+   <cost currency="euro">0</cost>
+   <url>http://www.aia.gr</url>
+  </venue>
+ </event>
+  <event event_id="GR-020-15260">
+  <category genre="installation">Exhibition</category>
+  <title lang="en">The House of Sleep</title>
+  <artists kind="duo">
+    <artist > Katayoun Karami </artist>
+    <artist >Neda Razavipour</artist></artists>
+  <venue>
+   <event_place>Δημοτική Πινακοθήκη Ψυχικού</event_place>
+   <starting>2016-01-26T18:00:00</starting>   
+   <address>Ι. Κοκκώνη 15, Ψυχικό</address>
+   <cost currency="euro">0</cost>
+   <url>http://www.elculture.gr/blog/the-house-of-sleep/</url>
+  </venue>
+ </event>
+  <event event_id="GR-020-15261">
+  <category genre="installation">Exhibition</category>
+  <title lang="en">(test) in between</title>
+  <artists kind="solo">
+   <artist >Κατερίνα  Αθανασίου</artist>
+</artists>
+  <venue>
+   <event_place>BETON7</event_place>
+   <starting>2016-03-17T18:00:00</starting>   
+   <address>Πύδνας 7, 11855 Βοτανικός</address>
+   <cost currency="euro">10</cost>
+   <url>http://www.elculture.gr/blog/test-in-between/</url>
+  </venue>
+   </event>
+</events >

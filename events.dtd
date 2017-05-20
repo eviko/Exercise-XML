@@ -1,0 +1,18 @@
+<!ELEMENT events (event+)>
+<!ELEMENT event (category ,((title ,artists) | (artists,title)),venue ,event_details?)>
+<!ATTLIST event  event_id CDATA #REQUIRED>
+<!ELEMENT category (#PCDATA)>
+<!ATTLIST category  genre CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title  lang CDATA #REQUIRED>
+<!ELEMENT artists (artist+)>
+<!ATTLIST artists  kind CDATA #REQUIRED>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT venue (event_place , starting,((address,cost+,url)|(cost+,address,url)|(url,address,cost+)))>
+<!ELEMENT event_place (#PCDATA)>
+<!ELEMENT starting (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ATTLIST cost currency CDATA #REQUIRED>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT event_details (#PCDATA)>
